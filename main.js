@@ -1,1 +1,1 @@
-alert(document.body.innerHTML)
+document.parentElement.style.backgroundColor='red'
