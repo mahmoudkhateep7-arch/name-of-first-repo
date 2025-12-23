@@ -1,2 +1,5 @@
 console.log(10)
-let a=10;
+console.log(10)
+for(let i=0;i<10;i++){
+  console.log(i)
+}
