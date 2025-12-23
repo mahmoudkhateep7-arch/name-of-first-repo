@@ -7,4 +7,18 @@ h2{
   ;
   background-color: black;
   color: white;
+  font-size: 30px;
+
+}
+.cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+p{
+  background-color: red;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
 }
