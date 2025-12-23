@@ -1,1 +1,1 @@
-document.parentElement.style.backgroundColor='red'
+console.log(10)
