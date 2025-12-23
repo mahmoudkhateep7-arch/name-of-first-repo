@@ -1,1 +1,1 @@
-let h1=document.querySelector('h1');
+alert(document.body.innerHTML)
